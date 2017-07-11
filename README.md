@@ -23,4 +23,4 @@
 Inspired by: [Dracula Theme](https://github.com/dracula/dracula-theme)
 
 ### License
-[MIT License © Wolf Theme](./LICENSE)
+[MIT License](./LICENSE) © Wolf Theme
