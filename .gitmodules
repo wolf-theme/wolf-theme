@@ -1,0 +1,9 @@
+[submodule "sublime"]
+	path = sublime
+	url = https://github.com/wolf-theme/sublime.git
+[submodule "atom"]
+	path = atom
+	url = https://github.com/wolf-theme/atom.git
+[submodule "fish-shell"]
+	path = fish-shell
+	url = https://github.com/wolf-theme/fish-shell.git
