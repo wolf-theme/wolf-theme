@@ -7,3 +7,7 @@
 [submodule "fish-shell"]
 	path = fish-shell
 	url = https://github.com/wolf-theme/fish-shell.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/wolf-theme/zsh.git
+	
